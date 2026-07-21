@@ -1,1 +1,1 @@
-
+Exercises developed during training.
