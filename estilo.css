@@ -85,3 +85,22 @@ aside {
     right: 20px; /*distancia da direita da tela*/
     z-index: 5; /*para ficar a frente dos outros elementos*/
 }
+form {
+    background-color: bisque;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+label {
+    font-weight: bold;
+}
+.active {
+    background-color: rgb(176, 243, 176);
+    color: red;
+    font-weight: bold;
+}
